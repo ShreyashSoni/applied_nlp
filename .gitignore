@@ -15,3 +15,6 @@ glove*.txt
 venv/
 *.pt
 *.zip
+
+# env variables
+.env
